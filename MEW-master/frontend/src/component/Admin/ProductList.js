@@ -55,7 +55,7 @@ const ProductList = () => {
     {
       field: "name",
       headerName: "Name",
-      minWidth: 150,
+      minWidth: 160,
       flex: 1,
     },
     {
